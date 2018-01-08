@@ -1,11 +1,14 @@
-p, li {
-  color: blue;
-  width: 500px;
-  border: 1px solid black;
+h1 {
+font-size: 60px;
+text-align: center;
+
 }
 
 
-h1 {
-color: red;
+p, li{
+
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
 
 }
